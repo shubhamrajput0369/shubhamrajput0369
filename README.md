@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shubham
+## Hi there [<img align="left" alt="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="22px" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" />] I'm Shubham
 
 ### I'm a Developer, Analyst, Coder, Designer and Student of PCCOE!!
 
