@@ -48,7 +48,7 @@
 
 ---
 
-##My Articles/Research:
+### My Articles/Research:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/1" alt="Recent Article 1"></a>
