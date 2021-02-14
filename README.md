@@ -2,7 +2,7 @@
 
 ### I'm a Developer, Analyst, Coder, Designer and Student of PCCOE!!
 
-- 🔭 I just done with my first industrial internship : [at "Perfect Skills"!][IT Company]
+- 🔭 I just done with my first industrial internship at "Perfect Skills" IT Company.
 - 🌱 I’m currently working in ML & DL projects.
 - 👯 I’m looking to collaborate with open source project developers in the domain of Data Science.
 - 🥅 Current Goals: Developing myself in all possible areas.
@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shubhamrajput0369's GitHub Stats" src="https://github-readme-stats.shubhamrajput0369.vercel.app/api?username=shubhamrajput0369&show_icons=true&hide_border=true" />
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamrajput0369&show_icons=true&theme=radical)
 
 </details>
 
