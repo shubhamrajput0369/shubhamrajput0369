@@ -49,7 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- (https://medium.com/shubhamrajput0369/what-is-big-data-aaa6951f7fa)
+- [!GitHub Logo](https://medium.com/shubhamrajput0369/what-is-big-data-aaa6951f7fa)
 - (https://medium.com/shubhamrajput0369/big-data-3-vs-and-5-v-s-c1cae2a6d311)
 - (https://medium.com/shubhamrajput0369/big-data-applications-the-influencer-6cf487f0d358)
 - (https://medium.com/shubhamrajput0369/big-data-weapons-tools-f1ad7845d684)
