@@ -33,6 +33,8 @@
 [<img align="left" alt="shubhamrajput0369 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@shubhamrajput0369)
 [<img align="left" alt="shubhamrajput0369 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shubhamrajput0369)
 [<img align="left" alt="ShubhamRajpuut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShubhamRajpuut)
+[<img align="left" alt="shubham.rajput0369" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](shubham.rajput0369@gmail.com)
+
 
 <br />
 
