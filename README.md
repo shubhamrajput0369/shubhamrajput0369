@@ -8,7 +8,7 @@
 - 🥅 Current Goals: Developing myself in all possible areas.
 - ⚡ Fun fact: I love to code, singing and playing guitar.
 
-<br />
+
 
 ### Languages and Tools:
 
