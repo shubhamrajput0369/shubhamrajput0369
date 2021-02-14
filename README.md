@@ -1,4 +1,4 @@
-## Hi there, I'm Shubham - aka [codeSTACKr][website] 👋
+## Hi there 👋 I'm Shubham 
 
 ### I'm a Developer, Analyst, Coder, Designer and Student of PCCOE!!
 
