@@ -48,6 +48,15 @@
 
 ---
 
+##My Articles/Research:
+
+<a target="_balnk" href="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/0"<img src="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/0"> alt="Recent Article 0"></a>
+<a target="_balnk" href="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/1"<img src="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/1"> alt="Recent Article 1"></a>
+<a target="_balnk" href="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/2"<img src="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/2"> alt="Recent Article 2"></a>
+<a target="_balnk" href="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/3"<img src="https://github-readme-medium-recent-articles.vercel.app/medium/@shubhamrajput0369/3"> alt="Recent Article 3"></a>
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
