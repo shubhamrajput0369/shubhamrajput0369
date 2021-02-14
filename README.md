@@ -38,8 +38,8 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats<br></summary>
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamrajput0369&show_icons=true&theme=radical)
+  <summary>:zap: GitHub Stats</summary>
+![Shubham Rajput's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamrajput0369&show_icons=true&theme=radical)
 
 </details>
 
