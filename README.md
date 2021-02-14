@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+<br>
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamrajput0369&show_icons=true&theme=radical)
 
 </details>
