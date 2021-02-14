@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://shubhamrajput0369.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://shubhamrajput0369.github.io/" width="22px" src="https://shubhamrajput0369.github.io/" />]
 [<img align="left" alt="shubhamrajput0369 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" alt="shubhamrajput0369 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ShubhamRajpuut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
