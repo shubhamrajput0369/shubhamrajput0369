@@ -55,17 +55,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/2" alt="Recent Article 2"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/3" alt="Recent Article 3"></a>
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [What is Big Data? - By processing on big data, we can predict the future as well as present behavior of result about specific thing.](https://medium.com/shubhamrajput0369/what-is-big-data-aaa6951f7fa)
-- [Big Data 3 V’s and 5 V’s - The big data stands on mainly 5 pillars are Volume, Velocity, Variety, Veracity and Value.These pillars are briefly describes in 3 V’s and 5 V’s architectures.](https://medium.com/shubhamrajput0369/big-data-3-vs-and-5-v-s-c1cae2a6d311)
-- [Big Data Applications: The Influencer - Influencer! Big Data proves itself as an influencer in many fields, such as healthcare, weather forecast, logistics, travel and tourism, government and law enforcement, education, e-commerce, IOT, business, media and entertainment etc.](https://medium.com/shubhamrajput0369/big-data-applications-the-influencer-6cf487f0d358)
-- [Big Data Weapons : Tools - As per a warrior needs strong weapons for a war like that Big Data Engineer/Analyst require specialize, advanced and magical tools!](https://medium.com/shubhamrajput0369/big-data-weapons-tools-f1ad7845d684)
-<!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://medium.com/@shubhamrajput0369)
 
 ---
