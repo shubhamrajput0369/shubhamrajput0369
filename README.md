@@ -1,4 +1,4 @@
-## Hi there 👋🏻 I'm Shubham 
+## Hi there 👋 I'm Shubham
 
 ### I'm a Developer, Analyst, Coder, Designer and Student of PCCOE!!
 
