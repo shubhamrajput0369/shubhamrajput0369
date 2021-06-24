@@ -3,8 +3,8 @@
 ### I'm a Developer, Analyst, Coder, Designer and Student of PCCOE!!
 
 - 🔭 I just done with my first industrial internship at "Perfect Skills" IT Company.
-- 🌱 I’m currently working in ML & DL projects.
-- 👯 I’m looking to collaborate with open source project developers in the domain of Data Science.
+- 🌱 I’m currently working in ML projects.
+- 👯 I’m looking to collaborate with open source project developers.
 - 🥅 Current Goals: Developing myself in all possible areas.
 - ⚡ Fun fact: I love to code, singing and playing guitar.
 
