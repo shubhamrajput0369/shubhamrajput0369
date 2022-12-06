@@ -1,11 +1,12 @@
 # Hi there <img alt="https://github.com/shubhamrajput0369/requiredstuff/blob/main/waving_hand.gif" width="22px" src="https://github.com/shubhamrajput0369/requiredstuff/blob/main/waving_hand.gif" /> I'm Shubham <img alt="https://github.com/shubhamrajput0369/requiredstuff/blob/main/boy_waving_hand.gif" width="22px" src="https://github.com/shubhamrajput0369/requiredstuff/blob/main/boy_waving_hand.gif" />
 
 ### Software Engineer @Cognizant
-### I'm a Product Developer, Coder and Problem Solver!!
+### I'm a Product Developer, Coder and Problem Solver #### I love to CODE
 
-- 🔭 I just done with my first industrial internship at "Perfect Skills" IT Company.
-- 🌱 I’m currently working in ML projects.
-- 👯 I’m looking to collaborate with open source project developers.
+- 🔭 I am experienced fresher with internship experience at Perfect Skills & at Cognizant a well known IT Company.
+- 🌱 I’m currently working in Salesforce Development (Cloud Computing) projects.
+- I am specialized in Cloud Computing, Artificial Intelligence and Data Engineering.
+- 👯 I’m looking to collaborate with open source project developers, Code Development, Artificial Intelligence, Data Engineering.
 - 🥅 Current Goals: Developing myself in all possible areas.
 - ⚡ Fun fact: I love to code, singing and playing guitar.
 
