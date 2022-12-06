@@ -52,13 +52,7 @@
 
 ---
 
-### My Articles/Research:
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/2" alt="Recent Article 2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamrajput0369/3" alt="Recent Article 3"></a>
-
-➡️ [more blog posts...](https://medium.com/@shubhamrajput0369)
+### My Articles: https://medium.com/@shubhamrajput0369
+### My Research: https://www.internationaljournalofspecialeducation.com/submission/index.php/ijse/article/view/240
 
 ---
