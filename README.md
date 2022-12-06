@@ -14,8 +14,10 @@
 
 
 ### Languages/Tools/Tech:
-TechGig Code Gladiators - 2 Gold Badger
-Salesforce 1X Ranger - Trailhead
+
+- TechGig Code Gladiators - 2 Gold Badger </br>
+
+- Salesforce 1X Ranger - Trailhead
 
 - Core Skills: Java, Javascript, SQL, Node.js, Cloud Computing, Integration Development
 
