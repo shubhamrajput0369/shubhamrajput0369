@@ -20,7 +20,7 @@ Salesforce 1X Ranger - Trailhead
 - Core Skills: Java, Javascript, SQL, Node.js, Cloud Computing, Integration Development
 
 - Worked Areas:
-• Salesforce Developer:- Apex, JavaScript, Visual Studio, Triggers, SOQL, SOSL, LWC, Automation, Copado, Salesforce DevOps, Salesforce Integration, App Development, SFDC Trailhead Badges 
+• Salesforce Developer:- Apex, JavaScript, Visual Studio, Triggers, SOQL, SOSL, LWC, Automation, Copado, Salesforce DevOps, Salesforce Integration, App Development, SFDC Trailhead Badges </br>
 • AWS Cloud DevOps Badge, AWS Cloud Engineer Badge, AWS Cloud Pathway Badges,
 • Webservices and Integration: REST API, SOAP API, Postman etc.
 
