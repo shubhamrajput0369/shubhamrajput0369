@@ -4,7 +4,7 @@
 ### I'm a Product Developer, Coder, Problem Solver & I Love Technology! 
 
 - 🔭 I'm experienced IT Professional with internship experience @Perfect Skills & @Cognizant a well known IT Organization.
-- 🌱 I’m a Developer & Coder currently working in Salesforce Development (Cloud Com.) projects & serving clients with best practices.
+- 🌱 I’m a Developer & Coder currently working in Salesforce Development (Cloud Dev) projects & serving clients with best practices.
 - 💻 I'm specialized in Cloud Computing, Artificial Intelligence and Data Engineering.
 - 👯 I’m open for collaboration, tech events & solving problems with the best practices.
 - ⚡ Fun fact: I contributed & Developed almost above 10 heavy projects.
