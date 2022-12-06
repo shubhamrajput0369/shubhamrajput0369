@@ -25,41 +25,41 @@ Salesforce 1X Ranger - Trailhead
 • Webservices and Integration: REST API, SOAP API, Postman etc. </br>
 
 - Languages/Frameworks:
-• Core Java Developer (Certified by Info Planet Org.), Python, JavaScript, C++, C Programming
+• Core Java Developer (Certified by Info Planet Org.), Python, JavaScript, C++, C Programming </br>
 • React.js, Node.js, Express.js 
 
-- Integration/Webservices Frameworks:
+- Integration/Webservices Frameworks: </br>
 • REST API, XML, JSON, HTML5, CSS3, WebSocket API
 
 - Coursework:
-• Cloud Computing  • Advanced Data Structure
-• Artificial Intelligence  • Operating System
+ </br> • Cloud Computing </br> • Advanced Data Structure </br>
+ </br> • Artificial Intelligence  </br> • Operating System
 
 - Tools:
-• Git, GitHub, Postman, Slack, Trello, Tomcat (For Web dev.), Visual Studio (VS)
+ </br>• Git, GitHub, Postman, Slack, Trello, Tomcat (For Web dev.), Visual Studio (VS) </br>
 
 - Certification:
-• Java Certified Developer 
-• C++ Certified Programmer 
-• C Certified Programmer
+• Java Certified Developer  </br>
+• C++ Certified Programmer  </br>
+• C Certified Programmer </br>
 
 - Trailhead Badges:
-• Salesforce 1X Ranger
-• Developer Superset Superbadge
-• Apex Specialist Superbadge
-• Process Automation Specialist Superbadge
-• Lightning Implementation Specialist Superbadge
-• Business Administration Specialist Superbadge
+• Salesforce 1X Ranger </br>
+• Developer Superset Superbadge </br>
+• Apex Specialist Superbadge </br>
+• Process Automation Specialist Superbadge </br>
+• Lightning Implementation Specialist Superbadge </br>
+• Business Administration Specialist Superbadge </br>
 
-- Salesforce Trailhead:
-[Profile: https://trailblazer.me/id/rajputshubham]
+- Salesforce Trailhead: </br>
+[Profile: https://trailblazer.me/id/rajputshubham] </br>
 
-- Coding Platforms:
+- Coding Platforms: </br>
 Hackerrank: Java 5⭐ | SQL 5⭐| CPP 5⭐ (5 STAR)
-[Profile: https://www.hackerrank.com/shubhamrajput]
+[Profile: https://www.hackerrank.com/shubhamrajput] </br>
 
-- TechGig:
-[Profile: https://www.techgig.com/shubhamrajput0369]
+- TechGig: </br>
+[Profile: https://www.techgig.com/shubhamrajput0369] </br>
 
 <br/>
 
