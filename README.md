@@ -13,8 +13,53 @@
 
 
 
-### Languages and Tools:
+### Languages/Tools/Tech:
+TechGig Code Gladiators - 2 Gold Badger
+Salesforce 1X Ranger - Trailhead
 
+Core Skills: Java, Javascript, SQL, Node.js, Cloud Computing, Integration Development
+
+Worked Areas:
+• Salesforce Developer:- Apex, JavaScript, Visual Studio, Triggers, SOQL, SOSL, LWC, Automation, Copado, Salesforce DevOps, Salesforce Integration, App Development, SFDC Trailhead Badges 
+• AWS Cloud DevOps Badge, AWS Cloud Engineer Badge, AWS Cloud Pathway Badges,
+• Webservices and Integration: REST API, SOAP API, Postman etc.
+
+Languages/Frameworks:
+• Core Java Developer (Certified by Info Planet Org.), Python, JavaScript, C++, C Programming
+• React.js, Node.js, Express.js 
+
+Integration/Webservices Frameworks:
+• REST API, XML, JSON, HTML5, CSS3, WebSocket API
+
+Coursework:
+• Cloud Computing  • Advanced Data Structure
+• Artificial Intelligence  • Operating System
+
+Tools:
+• Git, GitHub, Postman, Slack, Trello, Tomcat (For Web dev.), Visual Studio (VS)
+
+Certification:
+• Java Certified Developer 
+• C++ Certified Programmer 
+• C Certified Programmer
+
+Trailhead Badges:
+• Salesforce 1X Ranger
+• Developer Superset Superbadge
+• Apex Specialist Superbadge
+• Process Automation Specialist Superbadge
+• Lightning Implementation Specialist Superbadge
+• Business Administration Specialist Superbadge
+
+Salesforce Trailhead -
+[Profile: https://trailblazer.me/id/rajputshubham]
+
+Coding Platforms -
+Hackerrank: Java 5⭐ | SQL 5⭐| CPP 5⭐ (5 STAR)
+[Profile: https://www.hackerrank.com/shubhamrajput]
+
+TechGig -
+[Profile: https://www.techgig.com/shubhamrajput0369]
 
 <br/>
 
