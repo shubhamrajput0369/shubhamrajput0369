@@ -31,6 +31,5 @@
 ---
 
 ### My Articles: https://medium.com/@shubhamrajput0369
-### My Research: https://www.internationaljournalofspecialeducation.com/submission/index.php/ijse/article/view/240
-
+### My Research: 1) weSpeak(https://www.internationaljournalofspecialeducation.com/submission/index.php/ijse/article/view/240)
 ---
