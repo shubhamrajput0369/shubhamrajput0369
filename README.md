@@ -3,12 +3,13 @@
 ### Software Engineer @Cognizant
 ### I'm a Product Developer, Coder, Problem Solver & I Love Technology! 
 
-- 🔭 I am experienced IT Professional with internship experience at Perfect Skills & at Cognizant & currently Engineering @Cognizant a well known IT Organization.
-- 🌱 I’m currently working in Salesforce Development (Cloud Computing) projects.
-- I am specialized in Cloud Computing, Artificial Intelligence and Data Engineering.
-- 👯 I’m looking to collaborate with open source project developers, Code Development, Artificial Intelligence, Data Engineering.
-- 🥅 Current Goals: Developing myself in all possible areas.
+- 🔭 I'm experienced IT Professional with internship experience @Perfect Skills & @Cognizant a well known IT Organization.
+- 🌱 I’m a Developer & Coder currently working in Salesforce Development (Cloud Computing) projects & serving the clients with best practices.
+- 💻 I'm specialized in Cloud Computing, Artificial Intelligence and Data Engineering.
+- 👯 I’m open for collaboration, tech events & solving problem with the best practices.
 - ⚡ Fun fact: I contributed & Developed almost above 10 heavy projects.
+- 🥅 Current Goals: Developing myself in all possible areas.
+
 
 
 
