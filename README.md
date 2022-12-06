@@ -17,7 +17,7 @@
 TechGig Code Gladiators - 2 Gold Badger
 Salesforce 1X Ranger - Trailhead
 
-• Core Skills: Java, Javascript, SQL, Node.js, Cloud Computing, Integration Development
+- Core Skills: Java, Javascript, SQL, Node.js, Cloud Computing, Integration Development
 
 - Worked Areas:
 • Salesforce Developer:- Apex, JavaScript, Visual Studio, Triggers, SOQL, SOSL, LWC, Automation, Copado, Salesforce DevOps, Salesforce Integration, App Development, SFDC Trailhead Badges 
