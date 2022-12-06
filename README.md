@@ -1,4 +1,4 @@
-# Hi there <img alt="https://github.com/shubhamrajput0369/requiredstuff/blob/main/waving_hand.gif" width="22px" src="https://github.com/shubhamrajput0369/requiredstuff/blob/main/waving_hand.gif" /> I'm Shubham <img alt="https://github.com/shubhamrajput0369/requiredstuff/blob/main/boy_waving_hand.gif" width="22px" src="https://github.com/shubhamrajput0369/requiredstuff/blob/main/boy_waving_hand.gif" />
+# Hi there, I'm Shubham <img alt="https://github.com/shubhamrajput0369/requiredstuff/blob/main/boy_waving_hand.gif" width="22px" src="https://github.com/shubhamrajput0369/requiredstuff/blob/main/boy_waving_hand.gif" />
 
 ### Software Engineer @Cognizant
 ### I'm a Product Developer, Coder, Problem Solver & I Love Technology! 
