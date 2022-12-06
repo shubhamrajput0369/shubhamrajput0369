@@ -24,26 +24,26 @@ Salesforce 1X Ranger - Trailhead
 • AWS: Cloud DevOps Badge, AWS Cloud Engineer Badge, AWS Cloud Pathway Badges </br>
 • Webservices and Integration: REST API, SOAP API, Postman etc. </br>
 
-- Languages/Frameworks:
+- Languages/Frameworks:</br> 
 • Core Java Developer (Certified by Info Planet Org.), Python, JavaScript, C++, C Programming </br>
 • React.js, Node.js, Express.js 
 
 - Integration/Webservices Frameworks: </br>
 • REST API, XML, JSON, HTML5, CSS3, WebSocket API
 
-- Coursework:
- </br> • Cloud Computing </br> • Advanced Data Structure </br>
- </br> • Artificial Intelligence  </br> • Operating System
+- Coursework: </br>
+• Cloud Computing </br> • Advanced Data Structure </br>
+• Artificial Intelligence  </br> • Operating System
 
-- Tools:
- </br>• Git, GitHub, Postman, Slack, Trello, Tomcat (For Web dev.), Visual Studio (VS) </br>
+- Tools:</br>
+• Git, GitHub, Postman, Slack, Trello, Tomcat (For Web dev.), Visual Studio (VS) </br>
 
-- Certification:
+- Certification:</br>
 • Java Certified Developer  </br>
 • C++ Certified Programmer  </br>
 • C Certified Programmer </br>
 
-- Trailhead Badges:
+- Trailhead Badges: </br>
 • Salesforce 1X Ranger </br>
 • Developer Superset Superbadge </br>
 • Apex Specialist Superbadge </br>
