@@ -51,7 +51,7 @@ Salesforce 1X Ranger - Trailhead
 • Lightning Implementation Specialist Superbadge
 • Business Administration Specialist Superbadge
 
-• Salesforce Trailhead:
+- Salesforce Trailhead:
 [Profile: https://trailblazer.me/id/rajputshubham]
 
 - Coding Platforms:
