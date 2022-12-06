@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 
-<br />
+<br/>
 
 ### Connect with me:
 
@@ -27,7 +27,7 @@
 [<img align="left" alt="shubham.rajput0369" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:shubham.rajput0369@gmail.com)
 
 
-<br />
+<br/>
 
 ---
 
