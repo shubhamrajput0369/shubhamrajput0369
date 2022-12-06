@@ -72,10 +72,7 @@ Hackerrank: Java 5⭐ | SQL 5⭐| CPP 5⭐ (5 STAR)
 [<img align="left" alt="ShubhamRajpuut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShubhamRajpuut)
 [<img align="left" alt="shubham.rajput0369" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:shubham.rajput0369@gmail.com)
 
-
 <br/>
-
----
 
 ### My Articles: https://medium.com/@shubhamrajput0369
 ### My Research: 1) [weSpeak - Bidirectional Sign Language Translation System](https://www.internationaljournalofspecialeducation.com/submission/index.php/ijse/article/view/240)
