@@ -5,9 +5,9 @@
 
 - 🔭 I'm experienced IT Professional with internship experience @Perfect Skills & @Cognizant a well known IT Organization.
 - 🌱 I’m a Developer & Coder currently working in Salesforce Development projects & serving clients with best practices.
-- 💻 I'm specialized in Cloud Computing, Artificial Intelligence and Data Engineering.
+- 💻 I'm specialized in LWC, Apex, Aura, Solving Complex Business Use Cases.
 - 👯 I’m open for collaboration, tech events & solving problems with the best practices.
-- ⚡ Fun fact: I contributed & Developed almost above 10 heavy projects.
+- ⚡ Fun fact: I contributed & Developed almost above 10+ heavy projects.
 - 🥅 Current Goals: Developing myself in all possible areas.
 
 
