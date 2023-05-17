@@ -75,5 +75,5 @@ Hackerrank: Java 5⭐ | SQL 5⭐| CPP 5⭐ (5 STAR)
 <br/>
 
 ### My Articles: https://medium.com/@shubhamrajput0369
-### My Research: 1) [weSpeak - Bidirectional Sign Language Translation System](https://www.internationaljournalofspecialeducation.com/submission/index.php/ijse/article/view/240)
+### My Research: 1) Salesforce Innovation - Manufacturing Cloud, Experience Cloud, Sales Cloud 2) [weSpeak - Bidirectional Sign Language Translation System](https://www.internationaljournalofspecialeducation.com/submission/index.php/ijse/article/view/240)
 
